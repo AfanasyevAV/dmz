@@ -1,0 +1,4 @@
+com/mrz/a123/MainActivity.java
+ com.mrz.a123.MainActivity
+com/mrz/a123/BuildConfig.java
+ com.mrz.a123.BuildConfig
